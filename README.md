@@ -22,12 +22,12 @@ This was a project I once worked on for David's brother. I was given a large num
 
 This is a code project I built myself to try to get control over my schedule. For several years, I recorded in text files every subject I did and when I did it. For example, I could say:
 
-<pre>start Task One @ 13:00
-stop Task One @ 15:00
- + 35 minutes Task Two
-start Task Three @ 17:00
- - 4 minutes
-stop Task Three @ 19:00<\pre>
+<pre>start Task One @ 13:00</pre>
+<pre>stop Task One @ 15:00</pre>
+<pre> + 35 minutes Task Two</pre>
+<pre>start Task Three @ 17:00</pre>
+<pre> - 4 minutes</pre>
+<pre>stop Task Three @ 19:00<\pre>
 
 and the program would tell me how many hours I worked that day and on what. In the end, the project got rather elaborate with several tools built to help me analyze my long-term work habits. Sadly, when I changed computer setups, a large part of the funcionality was broken due to badly configured python libraries. 
 
