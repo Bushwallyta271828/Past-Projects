@@ -2,7 +2,6 @@
 
 Notes to self:
 
-* Insert USACO challenge descriptions
 * Insert repository of papers read (that was another github I think)
 * Insert MNIST things
 * Reference that previous BCO code is available in other repository.
