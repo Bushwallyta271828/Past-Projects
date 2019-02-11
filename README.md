@@ -33,3 +33,11 @@ and the program would tell me how many hours I worked that day and on what. In t
 ## Blackrock Castle Observatory Project
 
 This was 
+
+## 2048
+
+This project 
+
+## Past Papers
+
+I've read most of these papers on machine learning: https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
