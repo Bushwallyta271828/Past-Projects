@@ -1,4 +1,4 @@
-# Past-Projects
+## Past-Projects
 
 Notes to self:
 
@@ -7,3 +7,9 @@ Notes to self:
 * Insert repository of papers read (that was another github I think)
 * Insert MNIST things
 * Reference that previous BCO code is available in other repository.
+
+# USACO Sample
+
+* Thing!
+
+# 
