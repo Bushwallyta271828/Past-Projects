@@ -22,8 +22,8 @@ This was a project I once worked on for David's brother. I was given a large num
 
 This is a code project I built myself to try to get control over my schedule. For several years, I recorded in text files every subject I did and when I did it. For example, I could say:
 
-<pre>start Task One @ 13:00</pre>
-<pre>stop Task One @ 15:00</pre>
+<pre>start Task One @ 13:00
+stop Task One @ 15:00</pre>
 <pre> + 35 minutes Task Two</pre>
 <pre>start Task Three @ 17:00</pre>
 <pre> - 4 minutes</pre>
