@@ -34,7 +34,10 @@ and the program would tell me how many hours I worked that day and on what. In t
 
 This was a project I did at Blackrock Castle Observatory, Cork, sifting through images of stars looking for exoplanet transits. I worked on two algorithms. The first algorihtm tried to intelligently determine which pixels contained light from the star and which were background, while the second algorihtm looked at the light given off by the star over time to try to group the lightcurve into blocks of similar output. The latter I implemented with a dyamic program to improve the runtime by a factor of the number of images. The code for these two algorithms (dynamic aperture and dynamic blocking, respectively) are contained in the other repositories on my github account:
 
-
+https://github.com/Bushwallyta271828/Dynamic2
+https://github.com/Bushwallyta271828/StarTracker
+https://github.com/Bushwallyta271828/ClassifierNet
+https://github.com/Bushwallyta271828/Classifier
 
 ## 2048
 
