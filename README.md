@@ -42,7 +42,11 @@ For this project, I attempted to write a computer program that would try to earn
 
 ## Computer Algebra System
 
+(note to self -- unzip .tar file)
+
 ## MEEP Project
+
+(note to self -- unzip .tar file)
 
 ## Past Papers
 
