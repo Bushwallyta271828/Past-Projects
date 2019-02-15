@@ -1,0 +1,243 @@
+3*e
+2*e**2
+(2*e)**e
+2*e + pi
+2*e*pi
+(2*e)**pi
+2*e + x
+2*e*x
+(2*e)**x
+e**2 + e
+e**3
+Abs(e)**(2*e)
+e**2 + pi
+e**2*pi
+Abs(e)**(2*pi)
+e**2 + x
+e**2*x
+Abs(e)**(2*x)
+e + e**e
+e*e**e
+(e**e)**e
+e**e + pi
+e**e*pi
+(e**e)**pi
+e**e + x
+e**e*x
+(e**e)**x
+2*e + pi
+e*(e + pi)
+(e + pi)**e
+e + 2*pi
+pi*(e + pi)
+(e + pi)**pi
+e + pi + x
+x*(e + pi)
+(e + pi)**x
+e*pi + e
+e**2*pi
+(e*pi)**e
+e*pi + pi
+e*pi**2
+(e*pi)**pi
+e*pi + x
+e*pi*x
+(e*pi)**x
+e + e**pi
+e*e**pi
+(e**pi)**e
+e**pi + pi
+e**pi*pi
+(e**pi)**pi
+e**pi + x
+e**pi*x
+(e**pi)**x
+2*e + x
+e*(e + x)
+(e + x)**e
+e + pi + x
+pi*(e + x)
+(e + x)**pi
+e + 2*x
+x*(e + x)
+(e + x)**x
+e*x + e
+e**2*x
+(e*x)**e
+e*x + pi
+e*pi*x
+(e*x)**pi
+e*x + x
+e*x**2
+(e*x)**x
+e + e**x
+e*e**x
+(e**x)**e
+e**x + pi
+e**x*pi
+(e**x)**pi
+e**x + x
+e**x*x
+(e**x)**x
+2*e + pi
+e*(e + pi)
+(e + pi)**e
+e + 2*pi
+pi*(e + pi)
+(e + pi)**pi
+e + pi + x
+x*(e + pi)
+(e + pi)**x
+e*pi + e
+e**2*pi
+(e*pi)**e
+e*pi + pi
+e*pi**2
+(e*pi)**pi
+e*pi + x
+e*pi*x
+(e*pi)**x
+e + pi**e
+e*pi**e
+(pi**e)**e
+pi + pi**e
+pi*pi**e
+(pi**e)**pi
+pi**e + x
+pi**e*x
+(pi**e)**x
+e + 2*pi
+2*e*pi
+(2*pi)**e
+3*pi
+2*pi**2
+(2*pi)**pi
+2*pi + x
+2*pi*x
+(2*pi)**x
+e + pi**2
+e*pi**2
+Abs(pi)**(2*e)
+pi**2 + pi
+pi**3
+Abs(pi)**(2*pi)
+pi**2 + x
+pi**2*x
+Abs(pi)**(2*x)
+e + pi**pi
+e*pi**pi
+(pi**pi)**e
+pi + pi**pi
+pi*pi**pi
+(pi**pi)**pi
+pi**pi + x
+pi**pi*x
+(pi**pi)**x
+e + pi + x
+e*(pi + x)
+(pi + x)**e
+2*pi + x
+pi*(pi + x)
+(pi + x)**pi
+pi + 2*x
+x*(pi + x)
+(pi + x)**x
+e + pi*x
+e*pi*x
+(pi*x)**e
+pi*x + pi
+pi**2*x
+(pi*x)**pi
+pi*x + x
+pi*x**2
+(pi*x)**x
+e + pi**x
+e*pi**x
+(pi**x)**e
+pi + pi**x
+pi*pi**x
+(pi**x)**pi
+pi**x + x
+pi**x*x
+(pi**x)**x
+2*e + x
+e*(e + x)
+(e + x)**e
+e + pi + x
+pi*(e + x)
+(e + x)**pi
+e + 2*x
+x*(e + x)
+(e + x)**x
+e*x + e
+e**2*x
+(e*x)**e
+e*x + pi
+e*pi*x
+(e*x)**pi
+e*x + x
+e*x**2
+(e*x)**x
+e + x**e
+e*x**e
+(x**e)**e
+pi + x**e
+pi*x**e
+(x**e)**pi
+x + x**e
+x*x**e
+(x**e)**x
+e + pi + x
+e*(pi + x)
+(pi + x)**e
+2*pi + x
+pi*(pi + x)
+(pi + x)**pi
+pi + 2*x
+x*(pi + x)
+(pi + x)**x
+e + pi*x
+e*pi*x
+(pi*x)**e
+pi*x + pi
+pi**2*x
+(pi*x)**pi
+pi*x + x
+pi*x**2
+(pi*x)**x
+e + x**pi
+e*x**pi
+(x**pi)**e
+pi + x**pi
+pi*x**pi
+(x**pi)**pi
+x + x**pi
+x*x**pi
+(x**pi)**x
+e + 2*x
+2*e*x
+(2*x)**e
+pi + 2*x
+2*pi*x
+(2*x)**pi
+3*x
+2*x**2
+(2*x)**x
+e + x**2
+e*x**2
+Abs(x)**(2*e)
+pi + x**2
+pi*x**2
+Abs(x)**(2*pi)
+x**2 + x
+x**3
+Abs(x)**(2*x)
+e + x**x
+e*x**x
+(x**x)**e
+pi + x**x
+pi*x**x
+(x**x)**pi
+x + x**x
+x*x**x
+(x**x)**x
