@@ -1,7 +1,0 @@
-The inquired interval has length 9 weeks and 6 days.
-In the specified interval, you've been working an average of 4 hours 32 minutes a day.
-In the specified interval, your median work load is 5 hours 3 minutes a day.
-In the specified interval, one quarter of your days have got 1 hour 55 minutes or less work logged.
-In the specified interval, three quarters of your days have got 6 hours 54 minutes or less work logged.
-In the specified interval, your record high for work is 10 hours 18 minutes per day.
-In the specified interval, you've worked a total of 313 hours 20 minutes.
