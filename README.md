@@ -40,6 +40,10 @@ https://github.com/Bushwallyta271828/Classifier
 
 For this project, I attempted to write a computer program that would try to earn as many points as possible at 2048. I used a fairly elementary breadth-first-search of the state space combined with a hand-tuned heuristic that evaluated itself on every leaf node. The program would usually make it to the 2048 tile and often beyond, but it was no match for established 2048-playing programs.
 
+## Computer Algebra System
+
+## MEEP Project
+
 ## Past Papers
 
 I've read most of these papers on machine learning: https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
