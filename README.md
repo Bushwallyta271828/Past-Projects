@@ -1,10 +1,4 @@
 # Past-Projects
-
-Notes to self:
-
-* Insert repository of papers read (that was another github I think)
-* Insert MNIST things
-
 ## USACO Sample
 
 These are my submissions to the third USA Computer Olympiad competition of the 2016-2017 season. The problem statements are included in each sub-folder.
