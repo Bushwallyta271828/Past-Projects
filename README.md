@@ -1,7 +1,7 @@
 # Past-Projects
 ## USACO Sample
 
-These are my submissions to the third USA Computer Olympiad competition of the 2016-2017 season. The problem statements are included in each sub-folder.
+These are my submissions to the third USA Computer Olympiad Platinum competition of the 2016-2017 season (when I was a freshman). The problem statements are included in each sub-folder. In this contest I scored a 478. The scores of everyone on this competition can be found at this link: http://www.usaco.org/current/data/feb17_platinum_results.html
 
 ## Grid of 1s
 
