@@ -42,7 +42,7 @@ For this project, I attempted to write a computer program that would try to earn
 
 ## Computer Algebra System
 
-This was a computer algebra system I tried to create, which could manipulate algebraic expressions and solve equations. 
+This was a computer algebra system I tried to create, which could manipulate algebraic expressions and solve equations. This project was fairly successful, although its funcionality was limited and of course Wolfram Alpha is way better than it at everything.
 
 ## MEEP Project
 
