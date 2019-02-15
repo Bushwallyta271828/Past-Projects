@@ -42,11 +42,11 @@ For this project, I attempted to write a computer program that would try to earn
 
 ## Computer Algebra System
 
-(note to self -- unzip .tar file)
+This was a computer algebra system I tried to create, which could manipulate algebraic expressions and solve equations. 
 
 ## MEEP Project
 
-(note to self -- unzip .tar file)
+I started this project to get some sense of how computational electrodynamics simulations work. I tried to find a shape made out of stitched-together cones that would focus light as much as possible from a large opening into a smaller one. I wrote a python function to evolve over the shape of the cone slices, and that python file called a computational electrodynamics simulator called MEEP with an interface in the Scheme language to compute how much light made it though. I was unable to achieve much success through the optimization algorithms, and in retrospect the problem of focusing light could have been better chosen. Still, I learned about how programs like MEEP and other discrete simulation software works and I also gained familiarity with many python optimization libraries.
 
 ## Past Papers
 
