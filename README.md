@@ -9,7 +9,7 @@ This code was written in response to a computer science challenge from David Ler
 
 ## Speech Recognition Project
 
-This was a project I once worked on for a friend's brother who was doing psychological research. I was given a large number of sound files of people saying single words and I had to identify the word and identify the milisecond when the word was first spoken. In the end, this proved rather problematic, and I do not believe the most recent version of the code (the one here) is working properly. 
+This was a project I once worked on for David's brother. I was given a large number of sound files of people saying single words and I had to identify the word and identify the milisecond when the word was first spoken. In the end, this proved rather problematic, and I do not believe the most recent version of the code (the one here) is working properly. 
 
 ## Schedule Management Code
 
@@ -46,7 +46,7 @@ This was a computer algebra system I tried to create, which could manipulate alg
 
 ## MEEP Project
 
-I started this project to get some sense of how computational electrodynamics simulations work. I tried to find a shape made out of stitched-together cones that would focus light as much as possible from a large opening into a smaller one. I wrote a python function to evolve over the shape of the cone slices, and that python file called a computational electrodynamics simulator called MEEP with an interface in the Scheme language to compute how much light made it though. I was unable to achieve much success through the optimization algorithms, and in retrospect the problem of focusing light could have been better chosen. Still, I learned about how programs like MEEP and other discrete simulation software works and I also gained familiarity with many python optimization libraries.
+I started this project to get some sense of how computational electrodynamics simulations work. I tried to find a shape made out of stitched-together cones that would focus light as much as possible from a large opening into a smaller one. I wrote a python function to evolve over the shape of the cone slices, and that python file called a computational electrodynamics simulator called MEEP with an interface in the Scheme language to compute how much light made it though. I was unable to achieve much success through the optimization algorithms, and in retrospect the problem of focusing light could have been better chosen. Still, I learned about how programs like MEEP and other discrete simulation software work and I also gained familiarity with many python optimization libraries.
 
 ## Past Papers
 
