@@ -9,7 +9,7 @@ This code was written in response to a computer science challenge from David Ler
 
 ## Speech Recognition Project
 
-This was a project I once worked on for David's brother. I was given a large number of sound files of people saying single words and I had to identify the word and identify the milisecond when the word was first spoken. In the end, this proved rather problematic, and I do not believe the most recent version of the code (the one here) is working properly. 
+This was a project I once worked on for a friend's brother who was doing psychological research. I was given a large number of sound files of people saying single words and I had to identify the word and identify the milisecond when the word was first spoken. In the end, this proved rather problematic, and I do not believe the most recent version of the code (the one here) is working properly. 
 
 ## Schedule Management Code
 
