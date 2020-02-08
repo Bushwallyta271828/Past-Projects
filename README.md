@@ -38,7 +38,7 @@ https://github.com/Bushwallyta271828/Classifier
 
 ## 2048
 
-For this project, I attempted to write a computer program that would try to earn as many points as possible at 2048. The version here uses a fairly elementary breadth-first-search of the state space combined with a hand-tuned heuristic that evaluated itself on every leaf node. The program usually made it to the 2048 tile and often beyond, but it was no match for established 2048-playing programs.
+For this project, I attempted to write a computer program that would try to earn as many points as possible at 2048. The version here uses a fairly elementary breadth-first-search of the state space combined with a hand-tuned heuristic that evaluated itself on every leaf node. The program usually made it to the 2048 tile and often beyond, but it was no match for established 2048-playing programs. This version of the code does not incorporate a Monte Carlo approach.
 
 ## Computer Algebra System
 
